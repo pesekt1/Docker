@@ -20,3 +20,15 @@ This folder contains the files to build a multi-container web app with Swarm Sta
 
 - Pthon flask app with redis cache that also returns hostname of container servicing request
 - Docker hub image: [pesekt1/gsd:swarm-stack](https://hub.docker.com/repository/docker/pesekt1/gsd)
+
+## app - docker-demo
+
+https://docs.docker.com/get-started/
+
+## web-app
+
+simple node.js web server with static content
+
+## springboot-docker
+
+spring boot web server with static content
